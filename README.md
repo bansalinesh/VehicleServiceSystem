@@ -54,7 +54,7 @@ The project implementation allowed users to register their vehicles and specify 
 - Admin can view customer-generated service requests.
 - Admin can allocate vehicles to service stations and mechanics.
 - Admin can update service reports upon task completion.
-![image](https://github.com/bansalinesh/VehicleServiceSystem/assets/87863182/400298ca-a567-4d47-88ea-a7d65e84b140)
+![image](https://github.com/bansalinesh/VehicleServiceSystem/assets/87863182/63c8c415-25bd-40ee-a6d5-878c97b492d9)
 ![image](https://github.com/bansalinesh/VehicleServiceSystem/assets/87863182/614ed85a-a750-4c45-8267-937e04e4631f)
 
 
