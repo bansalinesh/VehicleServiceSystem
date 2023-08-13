@@ -19,7 +19,7 @@ This repository contains the project report and documentation for a Vehicle Mana
 
 This project is a simple web application for a vehicle repair/service shop or business. The application provides an online platform for clients or potential clients of the shop to submit their service requests. The primary goal of this project is to streamline the process of managing service requests and reduce the time consumed by both the management and clients.
 
-The application aims to centralize information about the services offered by the service center, available service centers, and transaction details. By automating the existing manual system, the project intends to ensure long-term storage of valuable data, easy accessibility, and manipulation of the stored information.
+The application aims to centralize information about the services offered by the service centre, available service centres, and transaction details. By automating the existing manual system, the project intends to ensure long-term storage of valuable data, easy accessibility, and manipulation of the stored information.
 
 ## Background
 
@@ -30,7 +30,7 @@ The manual guidelines in the previous system led to unorganized tasks for repair
 ## Objectives
 
 1. Maximize efficiency, productivity, and safety of vehicles and drivers.
-2. Assist in vehicle tracking, reporting on fuel consumption, monitoring driver behavior, and managing vehicle maintenance.
+2. Assist in vehicle tracking, reporting on fuel consumption, monitoring driver behaviour, and managing vehicle maintenance.
 3. Manage all transactions related to vehicle profiling, vehicle bookings, booking details, daily expenses, daily reports, and customer feedback.
 
 ## Methodology
@@ -68,14 +68,10 @@ The project implementation allowed users to register their vehicles and specify 
 
 ## Limitations
 
-1. No Pick-up and Drop Service: Currently, pick-up and delivery services are not offered. Future plans involve implementing this service.
-2. Limited User Base: During the testing phase, a beta version is released to manage backend workload and ensure a functional UI.
-3. Service Availability: The current functionality is limited to Patiala due to research and development constraints in other cities.
+1. No Pick-up and Drop Service: Pick-up and delivery services are not offered. Future plans involve implementing this service.
+2. Limited User Base: During the testing phase, a beta version is released to manage the backend workload and ensure a functional UI.
+3. Service Availability: Patiala's current functionality is limited due to research and development constraints in other cities.
 
 ## Conclusion
 
-The Vehicle Management System project has the potential to expand to various cities and towns in India. Future collaboration with like-minded engineers could facilitate database management and application handling.
-
----
-
-*Note: This README is based on the provided project report and should be customized further based on your actual project implementation and repository structure.*
+The Vehicle Management System project can potentially expand to various cities and towns in India. Future collaboration with like-minded engineers could facilitate database management and application handling.
